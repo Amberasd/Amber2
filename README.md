@@ -1,5 +1,4 @@
 Boilerplate and base project to create static websites with AMP, Nunjucks and Gulp
-
 boilerplate
 gulp-tasks
 amp
